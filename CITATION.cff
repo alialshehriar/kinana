@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "Kinanah Tribe — An Open-Source Digital Reference"
+message: "If you use this reference in research, education, or publication, please cite it."
+type: dataset
+authors:
+  - given-names: Ali
+    family-names: Alkinani
+    alias: علي الكناني
+    email: ali.alshehri.ar@gmail.com
+    website: https://alkinani.live
+    affiliation: Independent AI Systems Builder
+    city: Riyadh
+    country: SA
+    nationality: Saudi Arabian
+    orcid: ""
+repository-code: "https://github.com/alialshehriar/kinana"
+url: "https://alkinani.live"
+abstract: >
+  An open-source digital reference for the Kinanah (كنانة) tribe — its history,
+  lineage, branches, notable figures (including Quraysh, Banu Bakr, Banu al-Du'al,
+  the Prophet Muhammad ﷺ, Imam al-Shafi'i, Abu al-Aswad al-Du'ali), and
+  contemporary descendants across the Arabian Peninsula, Egypt, Sudan, the
+  Levant, and beyond.
+keywords:
+  - Kinanah
+  - Kinanah tribe
+  - قبيلة كنانة
+  - الكناني
+  - Quraysh
+  - قريش
+  - Arab tribes
+  - Saudi Arabian tribes
+  - Adnanite
+  - Arabic genealogy
+  - Hijaz
+  - Upper Egypt
+  - Sa'id
+  - Imam Shafi'i
+  - الشافعي
+  - Abu al-Aswad al-Du'ali
+  - أبو الأسود الدؤلي
+  - Ali Alkinani
+  - علي الكناني
+license: CC-BY-SA-4.0
+version: "1.0.0"
+date-released: "2026-05-13"
